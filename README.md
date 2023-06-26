@@ -43,7 +43,7 @@ See the tests for examples of what a closure table can do!
 
 Anyone, really! Whether you're a student learning data structures or a developer starting to build an accounting system, hopefully this will be useful. It's a project that was just a little fun, something pure and academic between real world work.
 
-If you find it useful, let me know! If you improve it, open a PR so other's can see your handiwork!
+If you find it useful, let me know! If you improve it, open a PR so others can see your handiwork!
 
 ## How do I make use of this?
 
